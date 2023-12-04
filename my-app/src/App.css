@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+@font-face {
+
+  font-family: vazir;
+
+  src: url("./Font/Vazir.ttf") format("truetype");
+
+}
